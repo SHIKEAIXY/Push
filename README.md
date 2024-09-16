@@ -4,8 +4,16 @@
 
 ### 1.克隆脚本
 
+#### 通过gitee
+
 ```
 git clone --depth=1 --single-branch https://gitee.com/SHIKEAIXY/Push /root/Push
+```
+
+#### 通过github
+
+```
+git clone --depth=1 --single-branch https://github.com/SHIKEAIXY/Push /root/Push
 ```
 
 ### 2.打开`/root/Push/Push.sh`修改1~4配置项
