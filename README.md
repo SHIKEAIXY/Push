@@ -16,5 +16,7 @@ git clone --depth=1 --single-branch https://gitee.com/SHIKEAIXY/Push /root/Push
 
 ```
 cd /root/Push/ && screen -R Git
-bash /root/Push/Push.sh
+```
+```
+chmod +x /root/Push/Push.sh && ./Push
 ```
