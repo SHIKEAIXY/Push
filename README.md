@@ -8,7 +8,7 @@
 git clone --depth=1 --single-branch https://gitee.com/SHIKEAIXY/Push /root/Push
 ```
 
-### 2.打开`/root/Push/Push`修改1~4配置项
+### 2.打开`/root/Push/Push.sh`修改1~4配置项
 
  - 5与6配置无需修改
 
