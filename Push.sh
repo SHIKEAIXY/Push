@@ -10,7 +10,7 @@ RESET_COLOR='\033[0m'  # 恢复颜色
 
 # 配置相关
 
-## 1.Git配置，邮箱+用户名
+## 1.Git配置，邮箱+用户名（用于提交所显示的账户）
 git config --global user.email "xxx@xxx.com"
 git config --global user.name "xxx"
 
